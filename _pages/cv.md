@@ -13,20 +13,20 @@ You can download a detailed version here: [CV](/files/Pedro%20Achanccaray%20CV.p
 
 Education
 ======
-* B.Sc. in Mechanical & Electrical Engineering, [National University of Engineering - UNI](https://www.uni.edu.pe/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/pe.png">, 2010
-* M.Sc. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">, 2014
-* Ph.D. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">, 2019
+* B.Sc. in Mechanical & Electrical Engineering, [National University of Engineering - UNI](https://www.uni.edu.pe/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/pe.png">, 2010
+* M.Sc. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">, 2014
+* Ph.D. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">, 2019
 
 Work experience
 ======
 * **Postdoctoral researcher** [Dec 2021 - present]
-  * IGP, TUBS <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/de.png">
+  * IGP, TUBS <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/de.png">
   * Researcher in Building Heritage Preservation
   * Deep learning applied to remote sensing data
   * Teaching assistant in the Deep Learning course
 
 * **Researcher/Developer** [Feb 2019 - Nov 2021]
-  * ICA, PUC-Rio <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">
+  * ICA, PUC-Rio <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">
   * Development of methos for the Oil & Gas industry
   * Deep learning applied to subsea inspection images and videos
   
