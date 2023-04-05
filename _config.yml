@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro M. Achanccaray Diaz"
+title                    : "Pedro Achanccaray Diaz"
 title_separator          : "-"
-name                     : &name "Pedro M. Achanccaray Diaz"
+name                     : &name "Pedro Achanccaray Diaz"
 description              : &description "Ph.D. Electrical Engineering"
 url                      : https://pedro9589.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
