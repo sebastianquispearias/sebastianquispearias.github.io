@@ -9,32 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a detailed version here: [CV](/files/Pedro%20Achanccaray%20CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mechanical & Electrical Engineering, [National University of Engineering - UNI](https://www.uni.edu.pe/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/pe.png">, 2010
+* M.Sc. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">, 2014
+* Ph.D. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Postdoctoral researcher** [Dec 2021 - present]
+  * IGP, TUBS <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/de.png">
+  * Researcher in Building Heritage Preservation
+  * Deep learning applied to remote sensing data
+  * Teaching assistant in the Deep Learning course
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Researcher/Developer** [Feb 2019 - Nov 2021]
+  * ICA, PUC-Rio <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/16x12/br.png">
+  * Development of methos for the Oil & Gas industry
+  * Deep learning applied to subsea inspection images and videos
   
-Skills
+
+Achievements, Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Scholarship **_Science without Borders_** from _CAPES_, for visiting researcher at IPI, LUH (Germany) [2016]
+  * Scholarship from _CNPq_ for the ***Ph.D. program*** at PUC-Rio [2014-2018]
+  * Scholarship ***Bolsa Nota 10*** from *FAPERJ* [2013]
+  * Scholarship from *CAPES* for the ***M.Sc. program*** at PUC-Rio [2012]
 
 Publications
 ======
@@ -54,6 +56,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Mentor, [_SISAY mentoring program_](http://sisay-mentores.org/) (2017, 2022-2023).
+* General secretary, [_IEEE Geoscience and Remote Sensing Society Brazil’s Chapter_](https://r9.ieee.org/brazil-grss/) (2015-2016).
+* Co-organizer, _IEEE GRSS Young Professionals and ISPRS Summer School 2015_.
+* Reviewer of journals (IJRS, PFG, TGRS, J-STARS, GRSL) and conferences (SIBGRAPI, SIMBig).

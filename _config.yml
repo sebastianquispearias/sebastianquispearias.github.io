@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pedro Achanccaray"
+  name             : "Pedro Achanccaray Diaz"
   avatar           : "photo.jpg"
-  bio              : "Researcher at Institute of Geodesy and Photogrammetry, Technical University of Braunschweig"
-  location         : "Braunschweig, Germany"
+  bio              : "Peruvian researcher working with satellite images and deep learning <br> <br> Postdoctoral researcher at <a style='color: black;' href='https://www.tu-braunschweig.de/en/igp'>IGP</a>, <a style='color: black;' https://www.tu-braunschweig.de/en/'>TU BS</a>"
+  location         : "Braunschweig, DE"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gfxEXdAAAAAJ&hl=en"
