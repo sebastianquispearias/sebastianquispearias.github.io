@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pedro Achanccaray"
   avatar           : "photo.jpg"
-  bio              : "Peruvian researcher living in Germany | Ph.D. in Electrical Engineering | Remote sensing, Deep learning"
+  bio              : "Researcher at Institute of Geodesy and Photogrammetry, Technical University of Braunschweig"
   location         : "Braunschweig, Germany"
-  employer         : "Institute of Geodesy and Photogrammetry, Technical University of Braunschweig"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gfxEXdAAAAAJ&hl=en"
   email            : "p dot diaz at tu-braunschweig dot de"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pedro9589/"
+  linkedin         : "pedro9589/"
   orcid            : "https://orcid.org/0000-0002-7324-9611%200000-0002-7324-9611"
   pinterest        :
   soundcloud       :
