@@ -28,6 +28,7 @@ Work experience
   * Researcher in Building Heritage Preservation
   * Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
   * Teaching assistant: [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) (Summer Semester)
+
 </details>
 
 <details>
@@ -37,6 +38,7 @@ Work experience
   * Deep learning applied to subsea inspection images, videos and seismic data
   * Development of deep learning methods for the Oil & Gas industry
   * Projects: BIG-OIL, MANNTIS  
+
 </details>
 
 <details>
@@ -48,6 +50,7 @@ Work experience
   * Cooperation with the [National Institute for Space Research - INPE](https://www.gov.br/inpe/pt-br)
   * Financial support from the [ISPRS Scientific Initiatives](https://www.isprs.org/society/si/SI-2017/default.aspx)
   * Projects: [Campo Verde](http://www.dpi.inpe.br/agricultural-database/campoverde/) [2015-2017], [LEM](http://www.dpi.inpe.br/agricultural-database/lem/) [2017-2018]
+
 </details>
 
 Achievements, Honors and Awards
@@ -59,14 +62,16 @@ Achievements, Honors and Awards
 
 [Publications](/publications)
 ======
-  
+<br />
   
 [Talks](/talks)
 ======
- 
+<br />
+
 [Teaching](/teaching)
 ======
-  
+<br />
+
 Service 
 ======
 * Mentor, [_SISAY mentoring program_](http://sisay-mentores.org/) (2017, 2022-2023).
