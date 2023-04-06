@@ -23,7 +23,7 @@ Work experience
 <details>
   <summary><b>Postdoctoral researcher</b> [Dec 2021 - present]</summary>  
 
-  * [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) <img  src="https://flagcdn.com/24x18/de.png">
+  * [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) ![](https://flagcdn.com/24x18/de.png)
   * Deep learning applied to remote sensing data (aerial and oblique imagery)
   * Researcher in Building Heritage Preservation
   * Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
@@ -34,7 +34,7 @@ Work experience
 <details>
   <summary><b>Researcher/Developer</b> [Feb 2019 - Nov 2021]</summary>  
 
-  * [ICA](https://puc-rio.ai/), [PUC-Rio](http://www.puc-rio.br/english/) <img src="https://flagcdn.com/24x18/br.png">
+  * [ICA](https://puc-rio.ai/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
   * Deep learning applied to subsea inspection images, videos and seismic data
   * Development of deep learning methods for the Oil & Gas industry
   * Projects: BIG-OIL, MANNTIS  
@@ -44,7 +44,7 @@ Work experience
 <details>
   <summary><b>Researcher</b> [2015 - 2018]</summary>  
 
-  * [LVC](http://www.lvc.ele.puc-rio.br/wp/), [PUC-Rio](http://www.puc-rio.br/english/) <img  src="https://flagcdn.com/24x18/br.png">
+  * [LVC](http://www.lvc.ele.puc-rio.br/wp/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
   * Development of public benchmarks for agricultural applications
   * Pre-processing of sequences of multitemporal Sentinel-1 images for agricultural monitoring
   * Cooperation with the [National Institute for Space Research - INPE](https://www.gov.br/inpe/pt-br)
