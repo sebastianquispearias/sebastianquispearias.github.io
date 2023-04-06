@@ -20,9 +20,8 @@ Education
 
 Work experience
 ======
-<details>
+<details markdown=1>
 <summary><b>Postdoctoral researcher</b> [Dec 2021 - present]</summary>  
-<p>
 
 * [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) ![](https://flagcdn.com/24x18/de.png)
 * Deep learning applied to remote sensing data (aerial and oblique imagery)
@@ -30,7 +29,6 @@ Work experience
 * Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
 * Teaching assistant: [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) (Summer Semester)
 
-</p>
 </details>
 
 <details>
