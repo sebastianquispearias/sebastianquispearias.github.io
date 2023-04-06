@@ -13,23 +13,42 @@ You can download a detailed version here: [CV](/files/Pedro%20Achanccaray%20CV.p
 
 Education
 ======
-* B.Sc. in Mechanical & Electrical Engineering, [National University of Engineering - UNI](https://www.uni.edu.pe/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/pe.png">, 2010
-* M.Sc. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">, 2014
-* Ph.D. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">, 2019
+* B.Sc. in Mechanical & Electrical Engineering, [National University of Engineering - UNI](https://www.uni.edu.pe/) <img src="https://flagcdn.com/24x18/pe.png">, 2010
+* M.Sc. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img src="https://flagcdn.com/24x18/br.png">, 2014
+* Ph.D. in Electrical Engineering, [Pontifical Catholic University of Rio de Janeiro - PUC-Rio](http://www.puc-rio.br/english/) <img src="https://flagcdn.com/24x18/br.png">, 2019
+  * Visiting researcher, [Institute of Photogrammetry and Geoinformation](https://www.ipi.uni-hannover.de/en/), [Leibniz University Hannover](https://www.uni-hannover.de/en/) <img  src="https://flagcdn.com/24x18/de.png">, 2016
 
 Work experience
 ======
-* **Postdoctoral researcher** [Dec 2021 - present]
-  * IGP, TUBS <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/de.png">
-  * Researcher in Building Heritage Preservation
-  * Deep learning applied to remote sensing data
-  * Teaching assistant in the Deep Learning course
+<details>
+  <summary><b>Postdoctoral researcher</b> [Dec 2021 - present]</summary>  
 
-* **Researcher/Developer** [Feb 2019 - Nov 2021]
-  * ICA, PUC-Rio <img title="peruvian flag" alt="Pervian flag" src="https://flagcdn.com/24x18/br.png">
-  * Development of methos for the Oil & Gas industry
-  * Deep learning applied to subsea inspection images and videos
-  
+  * [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) <img  src="https://flagcdn.com/24x18/de.png">
+  * Deep learning applied to remote sensing data (aerial and oblique imagery)
+  * Researcher in Building Heritage Preservation
+  * Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
+  * Teaching assistant: [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) (Summer Semester)
+</details>
+
+<details>
+  <summary><b>Researcher/Developer</b> [Feb 2019 - Nov 2021]</summary>  
+
+  * [ICA](https://puc-rio.ai/), [PUC-Rio](http://www.puc-rio.br/english/) <img src="https://flagcdn.com/24x18/br.png">
+  * Deep learning applied to subsea inspection images, videos and seismic data
+  * Development of deep learning methods for the Oil & Gas industry
+  * Projects: BIG-OIL, MANNTIS  
+</details>
+
+<details>
+  <summary><b>Researcher</b> [2015 - 2018]</summary>  
+
+  * [LVC](http://www.lvc.ele.puc-rio.br/wp/), [PUC-Rio](http://www.puc-rio.br/english/) <img  src="https://flagcdn.com/24x18/br.png">
+  * Development of public benchmarks for agricultural applications
+  * Pre-processing of sequences of multitemporal Sentinel-1 images for agricultural monitoring
+  * Cooperation with the [National Institute for Space Research - INPE](https://www.gov.br/inpe/pt-br)
+  * Financial support from the [ISPRS Scientific Initiatives](https://www.isprs.org/society/si/SI-2017/default.aspx)
+  * Projects: [Campo Verde](http://www.dpi.inpe.br/agricultural-database/campoverde/) [2015-2017], [LEM](http://www.dpi.inpe.br/agricultural-database/lem/) [2017-2018]
+</details>
 
 Achievements, Honors and Awards
 ======
@@ -38,23 +57,15 @@ Achievements, Honors and Awards
   * Scholarship ***Bolsa Nota 10*** from *FAPERJ* [2013]
   * Scholarship from *CAPES* for the ***M.Sc. program*** at PUC-Rio [2012]
 
-Publications
+[Publications](/_pages/publications.md)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+[Talks](/_pages/talks.html)
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
+[Teaching](/_pages/teaching.html)
+======
   
 Service 
 ======
