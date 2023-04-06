@@ -21,36 +21,42 @@ Education
 Work experience
 ======
 <details>
-  <summary><b>Postdoctoral researcher</b> [Dec 2021 - present]</summary>  
+<summary><b>Postdoctoral researcher</b> [Dec 2021 - present]</summary>  
+<p>
 
-  * [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) ![](https://flagcdn.com/24x18/de.png)
-  * Deep learning applied to remote sensing data (aerial and oblique imagery)
-  * Researcher in Building Heritage Preservation
-  * Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
-  * Teaching assistant: [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) (Summer Semester)
+* [IGP](https://www.tu-braunschweig.de/en/igp), [TUBS](https://www.tu-braunschweig.de/en/) ![](https://flagcdn.com/24x18/de.png)
+* Deep learning applied to remote sensing data (aerial and oblique imagery)
+* Researcher in Building Heritage Preservation
+* Project: [Mass monument industrial hall - C3](https://kulturerbe-konstruktion.de/spp-2255-teilprojekt/mass-monument-industrial-hall-c3/?lang=en), priority program SPP2255 from the [DFG](https://www.dfg.de/en/index.jsp)
+* Teaching assistant: [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) (Summer Semester)
 
+</p>
 </details>
 
 <details>
-  <summary><b>Researcher/Developer</b> [Feb 2019 - Nov 2021]</summary>  
+<summary><b>Researcher/Developer</b> [Feb 2019 - Nov 2021]</summary>  
+<p>
 
-  * [ICA](https://puc-rio.ai/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
-  * Deep learning applied to subsea inspection images, videos and seismic data
-  * Development of deep learning methods for the Oil & Gas industry
-  * Projects: BIG-OIL, MANNTIS  
+* [ICA](https://puc-rio.ai/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
+* Deep learning applied to subsea inspection images, videos and seismic data
+* Development of deep learning methods for the Oil & Gas industry
+* Projects: BIG-OIL, MANNTIS  
 
+</p>
 </details>
 
 <details>
-  <summary><b>Researcher</b> [2015 - 2018]</summary>  
+<summary><b>Researcher</b> [2015 - 2018]</summary>  
+<p>
 
-  * [LVC](http://www.lvc.ele.puc-rio.br/wp/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
-  * Development of public benchmarks for agricultural applications
-  * Pre-processing of sequences of multitemporal Sentinel-1 images for agricultural monitoring
-  * Cooperation with the [National Institute for Space Research - INPE](https://www.gov.br/inpe/pt-br)
-  * Financial support from the [ISPRS Scientific Initiatives](https://www.isprs.org/society/si/SI-2017/default.aspx)
-  * Projects: [Campo Verde](http://www.dpi.inpe.br/agricultural-database/campoverde/) [2015-2017], [LEM](http://www.dpi.inpe.br/agricultural-database/lem/) [2017-2018]
+* [LVC](http://www.lvc.ele.puc-rio.br/wp/), [PUC-Rio](http://www.puc-rio.br/english/) ![](https://flagcdn.com/24x18/br.png)
+* Development of public benchmarks for agricultural applications
+* Pre-processing of sequences of multitemporal Sentinel-1 images for agricultural monitoring
+* Cooperation with the [National Institute for Space Research - INPE](https://www.gov.br/inpe/pt-br)
+* Financial support from the [ISPRS Scientific Initiatives](https://www.isprs.org/society/si/SI-2017/default.aspx)
+* Projects: [Campo Verde](http://www.dpi.inpe.br/agricultural-database/campoverde/) [2015-2017], [LEM](http://www.dpi.inpe.br/agricultural-database/lem/) [2017-2018]
 
+</p>
 </details>
 
 Achievements, Honors and Awards
