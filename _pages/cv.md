@@ -11,4 +11,4 @@ redirect_from:
 
 If the embedded PFD does not load, you can download it here: [CV](/files/Pedro%20Achanccaray%20CV.pdf)
 
-<embed src="/files/Pedro%20Achanccaray%20CV.pdf" type="application/pdf" width="100%" height="900">
+<embed src="/files/Pedro%20Achanccaray%20CV.pdf" type="application/pdf" width="100%">
