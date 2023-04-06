@@ -57,14 +57,14 @@ Achievements, Honors and Awards
   * Scholarship ***Bolsa Nota 10*** from *FAPERJ* [2013]
   * Scholarship from *CAPES* for the ***M.Sc. program*** at PUC-Rio [2012]
 
-[Publications](/_pages/publications.md)
+[Publications](/publications)
 ======
   
   
-[Talks](/_pages/talks.html)
+[Talks](/talks)
 ======
  
-[Teaching](/_pages/teaching.html)
+[Teaching](/teaching)
 ======
   
 Service 
