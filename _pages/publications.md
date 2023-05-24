@@ -15,7 +15,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * **Achanccaray, P.**, Gerke, M., Wesche, L., Hoyer, S., Thiele, K., Knufinke, U., Krafczyk, C. [*Automatic Detection of Specific Constructions on a Large Scale Using Deep Learning in Very High Resolution Airborne Imagery*](https://link.springer.com/article/10.1007/s41064-023-00237-z). PFG (2023), DOI:10.1007/s41064-023-00237-z
 
-* Wesche, L., **Achanccaray, P.**, Hoyer, S., 2023. *Serielle Bauwerke und wie man sie findet – Eine Methodik der Künstlichen Intelligenz zur Gebäudeerfassung*, in: Olaf Gisbertz et al. (Hrsg.): Reallabor Nachkriegsmoderne. Zum Umgang mit jüngeren Denkmalen. Berlin: Jovis, ISBN 978-3-86859-795-0
 
 </details>
 <br />
