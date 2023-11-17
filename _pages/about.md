@@ -10,9 +10,10 @@ redirect_from:
 
 ¡Hola! Hi! Olá! Hallo!
 
-Welcome! I am Pedro Achanccaray, a researcher applying machine/deep learning models to remote sensing data. I have experience working on projects in the areas of agriculture, oil and gas, and building heritage preservation.
+Welcome! I am an Industrial Engineer working on process improvement projects through the use of software. I have experience in both the public and private sectors. 
 
-Currently, I am a postdoctoral researcher at the [Institute of Geodesy and Photogrammetry - IGP](https://www.tu-braunschweig.de/en/igp) from the [Technical University of Braunschweig - TUBS](https://www.tu-braunschweig.de/en/) working on [Building Heritage Preservation](https://www.tu-braunschweig.de/en/igp/projects/spp2255-c3) and as lecturer for the [Deep Learning](https://www.tu-braunschweig.de/igp/lehre/master/dl-rs) course.
+I've worked at Proyecto Especial Sierra Centro Sur, an entity belonging to the Ministry of Agricultural Development and Irrigation (MIDAGRI), and at HYHG CONTRATISTAS S.A.C, a company involved in the mass consumer poultry market.
 
+Currently, I am involved in academic research related to the application of genetic algorithms at PUCP.
 
-I got my Ph.D. and M.Sc. in Electrical Engineering from [PUC-Rio](http://www.puc-rio.br/english/), Brazil in 2019 and 2014, respectively. I graduated in Mechanical & Electrical Engineering at [UNI](https://www.uni.edu.pe/), Peru in 2010.
+I completed my studies at PUC-Rio in 2021 and obtained my bachelor's degree from PUCP in 2022.
