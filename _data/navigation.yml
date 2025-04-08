@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /Experience/
+  - title: "INF2475 - TOP DATA SCIENCE V"
+    url: /INF2475/
+
+  - title: "INF2056 - Distributed Algorithms"
+    url: /INF2056/
 
   - title: "Publications"
     url: /Publications/    
