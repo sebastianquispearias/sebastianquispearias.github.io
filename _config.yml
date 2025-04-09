@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sebastian Quispe Arias"
 title_separator          : "-"
 name                     : &name "Sebastian Quispe Arias"
-description              : &description "Industrial Engineer"
+description              : &description "Master in Informatics (currently doing)"
 url                      : https://sebastianquispearias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sebastianquispearias/sebastianquispearias.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sebastian Quispe Arias"
   avatar           : "photo.jpg"
-  bio              : "Industrial engineer with a strong interest in the field of process improvement and software applications.<br><br> Holds a dual degree from <a style='color: black;' href='https://www.pucp.edu.pe/'>PUCP</a> and <a style='color: black;' href='https://www.puc-rio.br/index.html'>PUC-RIO</a>."
-  location         : "Lima, PE"
+  bio              : "Currently doing Masters in informatics at PUC-RIO.<br><br> Holds a dual degree from <a style='color: black;' href='https://www.pucp.edu.pe/'>PUCP</a> and <a style='color: black;' href='https://www.puc-rio.br/index.html'>PUC-RIO</a>."
+  location         : "Rio de Janeiro, RJ"
   employer         : 
   pubmed           : 
   googlescholar    : 
