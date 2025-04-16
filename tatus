@@ -1,0 +1,171 @@
+[33m088b929[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m mensaje descriptivo
+[33m4ea9ab4[m Actualización del sitio web: se agregaron nuevos cambios
+[33m71cdd0f[m blog
+[33m4c71302[m Update teaching.md
+[33ma9e2663[m Update teaching.md
+[33m0c336fd[m Update teaching.md
+[33m621476c[m Update links.md
+[33me3d68d0[m Update github link in projects.md
+[33mcea4947[m Mensaje descriptivo del commit
+[33m09e826c[m Update publications and CV
+[33md79c6a6[m Update publications
+[33md4cc765[m Update
+[33m77410ad[m Update
+[33m6e5538a[m Update
+[33m7bf1697[m Update
+[33m0653453[m Update
+[33m231a9e9[m Update
+[33mff112f7[m Update
+[33mdbad56e[m Update
+[33mba05572[m Update
+[33m0c67bb8[m Update
+[33m44c3dd7[m Update
+[33m950d50e[m Update
+[33mb007e25[m Update
+[33m1e943ba[m Update
+[33medff5d1[m Update
+[33m0aff11a[m Update
+[33m681842c[m Update
+[33m4aa3a5b[m Update
+[33m82dc019[m Update
+[33mfc24dec[m Add collapsable sections
+[33m54658e7[m Update flags size
+[33m899f040[m Update CV
+[33m0baec03[m Update
+[33m4bdc37a[m Fix url issues
+[33ma8f1878[m Update config
+[33m8db3ed5[m First changes
+[33m25c30de[m Merge pull request #241 from cifkao/master
+[33m0ef09f1[m Fix icons
+[33m06c8b22[m Merge pull request #183 from kc9jud/bio-image-fix
+[33ma1706ad[m Merge pull request #220 from ningyuansg/fix-local-bundle-runtime
+[33m5a8a8db[m Add vendor as excluded dir
+[33m65a22d1[m Merge pull request #213 from luismmontilla/master
+[33mde3cd9e[m added impactstory icon
+[33m3155684[m added impactstory field
+[33m83b7060[m Merge pull request #207 from tlcaputi/master
+[33m287ceb1[m add pubmed icon
+[33m3dc2eb6[m Merge pull request #197 from mborowczak/pubsfrombib
+[33m8908e15[m Merge pull request #203 from bxie/social-share
+[33mbc3fa09[m fixed fa icons in social share, removed G+
+[33m642ab57[m Ability to generate publications from bibtex files.
+[33m720256a[m sidebar: Let avatar height vary
+[33m072b90b[m Merge pull request #166 from xingjunm/master
+[33m37b6a69[m fix researchgate to use full url, per example in _config.yml
+[33m153b3b9[m make researchgate field blank by default
+[33mfcd845a[m Merge pull request #176 from jacobtfisher/academicpages_master
+[33mcbf896d[m updated fontawesome
+[33m7a14977[m Merge pull request #172 from aki-nishimura/master
+[33m3207fc3[m Address a deprecation warning.
+[33m6dea417[m Fix a bug: Liquid does not allow parenthesis for logical operations.
+[33m900a7f4[m Address future deprecation warnings.
+[33m4b75e97[m update _sass/_archive.scss to highlight hyperlinks
+[33m79983e8[m remove transparency on hover from sidebar image
+[33m5055f27[m make links underlined by default
+[33ma78329f[m add conditional for talkmap
+[33m1a53c7c[m add talkmap_link option
+[33m15a32f0[m Merge pull request #149 from Omniscimus/patch-1
+[33m0bb15a3[m Remove lonely script closing tag
+[33m62b9a9a[m Merge pull request #133 from qaisjp/patch-1
+[33mb3ce2b9[m Fix typo in example cv
+[33mcfd2365[m Create 2199-01-01-future-post.md
+[33m7ee9ec3[m add future:true
+[33mb428556[m Merge pull request #110 from yimingzhaomath/master
+[33m63f279a[m Merge pull request #98 from jacksonpradolima/master
+[33m1606868[m Merge pull request #125 from zuoxingdong/patch-2
+[33m89be021[m Update custom.html
+[33m8068eb5[m increase body padding
+[33m35673c4[m increased body padding
+[33mf24d794[m fixed sticky footer
+[33mf6c7666[m added body padding to avoid footer overlap
+[33m71e2fe2[m added sticky footer
+[33m5e4d37c[m added sticky footer
+[33m88a56a1[m added sticky footer
+[33m0513790[m add Gemfile.lock notice
+[33m32e0174[m Delete Gemfile.lock
+[33m4a7a0cc[m fix nokogiri vulnerability
+[33m3378fe5[m Update ui-text.yml - Minor revision - Portuguese
+[33me21bd4b[m Merge pull request #81 from zuoxingdong/patch-1
+[33m119ab3e[m Support MathJax for rendering equations.
+[33mcf0862c[m update nokogiri to >=1.8.2
+[33me2693cb[m update nokogiri version
+[33ma9791a5[m Merge pull request #75 from Carreau/liveserve
+[33m1d476d4[m implement liveserve
+[33m9aec92b[m disable read more links by default
+[33m78167c4[m Merge pull request #29 from academicpages/read-more
+[33m14bf751[m add support for "read more" in excerpts, configure in _config.yml
+[33m2cdc88b[m Merge pull request #28 from academicpages/read-more
+[33md0a0163[m post is not a type, show "read more" for all w/ excerpt
+[33m0c8d65e[m Merge pull request #27 from academicpages/read-more
+[33m55310c9[m add "read more" to post excerpts
+[33m8f859e7[m add info about tagging code changes
+[33mb001699[m replace manual changelog with issues
+[33mc685f78[m Merge pull request #25 from academicpages/fix-teaching
+[33md06c8f5[m type is publications, not publication
+[33m377f14c[m fix bug in displaying publication info
+[33m2683a44[m Merge pull request #24 from academicpages/fix-teaching
+[33m1dd9162[m fix bug w/ blog posts added by previous teaching bugfix
+[33m64a6fd4[m Merge pull request #23 from academicpages/fix-teaching
+[33m2e86aa6[m fix bug w/ teaching info not appearing in collection page
+[33m7bf69d7[m Merge pull request #22 from academicpages/fix-teaching
+[33m3298fd2[m fix teaching "Published in" bug
+[33mde3dc3c[m image back to 175%
+[33mf757274[m patch from mmistakes/minimal-mistakes to fix jitter
+[33m6a1cb4f[m update local serve instructions
+[33m8afd47d[m remove jekyll-sitemap pull from github master
+[33m942a70d[m Add local install instructions
+[33mf760568[m Merge pull request #18 from a-paxton/add_academicons_pr
+[33m0e8112a[m Fix Academicons sidebar spacing
+[33m29b95e6[m Merge pull request #17 from a-paxton/add_academicons_pr
+[33m1c3f60a[m Add Academicons
+[33mbac6873[m update to reflect completed documentation
+[33m6807fe5[m add markdown generator info and document fix
+[33m4528221[m update talks and publications scripts, data, and notebook for markdown generator
+[33m879053a[m Merge branch 'master' of https://github.com/academicpages/academicpages.github.io
+[33m81c8f1a[m modify examples to reflect output of new markdown_generator scripts
+[33m1e0d09c[m restructure
+[33m053bd13[m update readme to reflect updated publication files
+[33ma145cbd[m update publication scripts, fix bugs and add documentation
+[33m82450fc[m fix link typo
+[33m96ab622[m add sentence to intro explaining github pages
+[33mdcdd459[m add bug fix section
+[33m34bd699[m Fix google scholar link, per Issue #4
+[33m71adb2a[m update docs to reflect earlier change from talk_type: to talk:
+[33m6c89bc1[m update notebooks to support format used in academicpages
+[33mb21eb3b[m generator was using collection:publication instead of publications
+[33mfa02c8f[m Merge pull request #4 from hainesr/master
+[33m54a3678[m Ignore the _site/ directory for local builds.
+[33mb8d2421[m Create CONTRIBUTING.md
+[33mff85650[m change breakpoints
+[33m98afdb9[m Update _variables.scss
+[33m252e967[m update breakpoints from mmistakes
+[33m2ff79dc[m Update _variables.scss
+[33m624edde[m fix breakpoint to allow more fluid spacing
+[33mca8a7e3[m add markdown generator
+[33mc5b937c[m Update readme.md
+[33m437e698[m Update readme.md
+[33m12fa9f3[m move markdown generator from staeiou/staeiou.github.io
+[33m5061b29[m Create readme.md
+[33m39916ee[m tweak intro paragraph
+[33mf25b2b3[m Update README.md
+[33mfd01caa[m Update cv.md
+[33m21cbae0[m expand intro
+[33m9303bb2[m fix image size
+[33m63a4648[m Add files via upload
+[33m34e06cd[m height for image
+[33mb701d23[m tweak intro
+[33m9762f57[m add diff for getorg-testacct
+[33m6dacde2[m no spacing
+[33m2291a38[m expand getting started
+[33m151589f[m 2px spacing
+[33m810d5ba[m add more instructions
+[33mdf3130b[m redirects from resume
+[33m862c3e2[m fix warning, patch from mmistakes
+[33mf94c6fc[m fix warning, patch from mmistakes
+[33m70c9263[m fix warning, patch from mmistakes
+[33m365b358[m rollback config changes
+[33mb178996[m 0px height
+[33me183df0[m 1px height
+[33mb98f73d[m height 2px
+[33md3d2a4b[m add comments and make it more usable
+[33mdd5a5f3[m Update READ
